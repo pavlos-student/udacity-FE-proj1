@@ -138,6 +138,10 @@ html {
         grid-template-columns: repeat(4, 1fr);
     }
 
+    .header {
+        margin: auto;
+    }
+
     .big-post {
         grid-column: 1 / span 2;
     }
